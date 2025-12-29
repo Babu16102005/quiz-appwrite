@@ -15,3 +15,4 @@ export const QUESTIONS_COLLECTION_ID = "questions";
 export const SCORES_COLLECTION_ID = "scores";
 
 export { client };
+// https://git.mua.software/Babu_Sde_Intern/appwrite-demo-project appwrite sample project
